@@ -100,9 +100,9 @@ for pubsource in publist:
 
             #citation authors - todo - add highlighting for primary author?
             for author in bibdata.entries[bib_id].persons["author"]:
-                if (author.first_names[0]+" "+author.last_names[0]) == "Ye Liu" or (author.first_names[0]+" "+author.last_names[0]) == "Liu Ye":
-                    citation = citation+" __"+author.first_names[0]+" "+author.last_names[0]+"__, "
-                else:
+                # if (author.first_names[0]+" "+author.last_names[0]) == "Ye Liu" or (author.first_names[0]+" "+author.last_names[0]) == "Liu Ye":
+                #     citation = citation+" __"+author.first_names[0]+" "+author.last_names[0]+"__, "
+                # else:
                     citation = citation+" "+author.first_names[0]+" "+author.last_names[0]+", "
 
             #citation title
