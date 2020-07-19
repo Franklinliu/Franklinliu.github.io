@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Career"
+title                    : "Academic Journey"
 title_separator          : "-"
 name                     : &name "Liu Ye"
 description              : &description "personal description"
