@@ -14,3 +14,14 @@ I joined the Cyber Security Lab (CSL) of NTU as a research assistant in Mar~Aug 
 My supervisor is Prof Li Yi. 
 My current research interest mainly lies on smart contract security and reliability, blockchain and software testing.
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>

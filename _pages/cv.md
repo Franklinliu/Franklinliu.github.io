@@ -11,23 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. in Northeastern University, China, Sep, 2012 - Jun, 2016
+* B.Sc. in Northeastern University, China, Sep, 2012 - Jun, 2016
     * Exchange Student  in Shandong Universtiy, China, Sep, 2014 - Jun, 2015
-* M.S. in Beihang University, China, Sep, 2016 - Jan, 2019
+* M.Sc. in Beihang University, China, Sep, 2016 - Jan, 2019
 * Ph.D. candidate, Nanyang Technological University, Singapore,  Aug, 2019 -
 
 Work experience
 ======
 * Mar - Aug, 2019: Research Assistant
   * Nanyang Technological University
-  * Supervisor: Professor Liu Yang
+  * Mentor: Professor Liu Yang
 
   
 Skills
 ======
-* Smart Contract Testing
+* Software Testing
 * Smart Contract Security Analysis
-* Ethereum development
 
 Publications
 ======
