@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Northeastern University, China, Sep, 2012 - Jun, 2016
+* B.Eng. in Northeastern University, China, Sep, 2012 - Jun, 2016
     * Exchange Student  in Shandong Universtiy, China, Sep, 2014 - Jun, 2015
 * M.Sc. in Beihang University, China, Sep, 2016 - Jan, 2019
 * Ph.D. candidate, Nanyang Technological University, Singapore,  Aug, 2019 -
