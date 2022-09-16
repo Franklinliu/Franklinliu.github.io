@@ -26,8 +26,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
 
-News
+<!-- News
 ======
   <ul>{% for post in site.posts %}
     {% include archive-single.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
