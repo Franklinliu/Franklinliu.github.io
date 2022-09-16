@@ -246,10 +246,10 @@ figcaption {
     -webkit-transition: $global-transition;
     transition: $global-transition;
 
-    // &:hover {
-    //   color: #000;
-    //   border-bottom-color: #000;
-    // }
+    &:hover {
+      color: #000;
+      border-bottom-color: #000;
+    }
   }
 }
 
