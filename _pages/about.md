@@ -20,14 +20,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
-<!-- News
-======
-  <ul>{% for post in site.posts %}
-    {% include archive-single.html %}
-  {% endfor %}</ul> -->
+<h2 id="news">News</h2>
+<ul>
+  <li> Update latest news</li>
+</ul>
