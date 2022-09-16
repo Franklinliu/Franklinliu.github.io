@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate from the School of Computer Science and Engineering, Nanyang Technological University (NTU, Singapore). 
-I got my B.Eng and M.Sc. degree from Northeastern University (NEU, China) and Beihang Univeristy (BUAA, China)  in Jun 2016 and in Jan 2019, respectively.
-I joined the Cyber Security Lab of NTU as a research assistant in Mar~Aug 2019.
-Since then, I am supervised by Prof Li Yi and 
-My current research interest mainly lies on smart contract security and reliability, blockchain and software testing.
+I am a Ph.D. candidate from School of Computer Science and Engineering, Nanyang Technological University (NTU, Singapore). 
+I got my bachelor's from Northeastern University in 2016 and master's degree from Beihang Univeristy in 2019, under the supervision of [Prof Jiang Bo](http://jiangbo.buaa.edu.cn/).
+I joined Cyber Security Lab as a research assistant in March 2019 and later pursue the Ph.D degree in August.
+I am supervised [Prof. Li Yi](https://personal.ntu.edu.sg/yi_li/). 
+My research interest mainly lies on smart contract analyis, formal verification, software testing, and specification mining.
 
 <h2 id="news">Publications</h2>
   <ul>{% for post in site.publications reversed %}
