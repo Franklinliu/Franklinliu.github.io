@@ -16,7 +16,7 @@ My current research interest mainly lies on smart contract security and reliabil
 
 <h2 id="news">Publications</h2>
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
 
 <h2 id="news">News</h2>
