@@ -14,7 +14,6 @@ I joined the Cyber Security Lab of NTU as a research assistant in Mar~Aug 2019.
 Since then, I am supervised by Prof Li Yi and 
 My current research interest mainly lies on smart contract security and reliability, blockchain and software testing.
 
-======
 <h2 id="news">Publications</h2>
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
