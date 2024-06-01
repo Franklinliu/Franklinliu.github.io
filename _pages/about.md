@@ -15,8 +15,8 @@ My research interest includes but not limited to smart contract security and rel
 <h2 id="news">News</h2>
 <ul>
   <li> Research Scientist at SMU. May 2024 </li>
-  <li> Our paper “Demystifying Invariant Effectiveness for Securing Smart Contracts” is accepted by FSE 2024. March 2024 <li>
-  <li> Our paper “DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications” is accepted by ISSTA 2024. March 2024 <li>
+  <li> Our paper “Demystifying Invariant Effectiveness for Securing Smart Contracts” is accepted by FSE 2024. March 2024 </li>
+  <li> Our paper “DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications” is accepted by ISSTA 2024. March 2024 </li>
   <li> Research Fellow at NTU. July 2023 </li>
   <li> Receive Ph.D. from NTU. 30-June-2023</li>
 </ul>
