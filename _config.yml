@@ -82,15 +82,12 @@ analytics:
 author:
   name             : "Liu Ye"
   avatar           : "profile.png"
-  bio              : "NTU Ph.D.  candidate, 
-  Cyber Security Lab，
-  li0003ye[at]e.ntu.edu.sg  
-  "
+  bio              : "Research Scientist at SMU; Research Fellow and Ph.D. at NTU  "
   location         : "Singapore"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?user=UlTURB0AAAAJ&hl=en&authuser=2"
-  email            : li0003ye[at]e.ntu.edu.sg  
+  email            : yeliu[at]smu.edu.sg; li0003ye[at]ntu.edu.sg    
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
