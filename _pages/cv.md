@@ -18,13 +18,18 @@ Education
 
 Work experience
 ======
+
+* May, 2024 - current : Research Scientist
+  * Singapore Management University
+  * Mentor: Professor David Lo
+
+* June, 2023 - April, 2024 : Research Fellow
+  * Nanyang Technological University
+  * Mentor: Associate Professor Li Yi
+
 * Mar - Aug, 2019: Research Assistant
   * Nanyang Technological University
   * Mentor: Professor Liu Yang
-
-* June,2023 - April,2024 : Research Fellow
-  * Nanyang Technological University
-  * Mentor: Associate Professor Li Yi
 
   
 Skills
