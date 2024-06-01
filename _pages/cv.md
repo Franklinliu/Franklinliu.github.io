@@ -14,13 +14,17 @@ Education
 * B.Eng. in Northeastern University, China, Sep, 2012 - Jun, 2016
     * Exchange Student  in Shandong Universtiy, China, Sep, 2014 - Jun, 2015
 * M.Sc. in Beihang University, China, Sep, 2016 - Jan, 2019
-* Ph.D. candidate, Nanyang Technological University, Singapore,  Aug, 2019 -
+* Ph.D. Nanyang Technological University, Singapore,  Aug, 2019 - June, 2023
 
 Work experience
 ======
 * Mar - Aug, 2019: Research Assistant
   * Nanyang Technological University
   * Mentor: Professor Liu Yang
+
+* June,2023 - April,2024 : Research Fellow
+  * Nanyang Technological University
+  * Mentor: Associate Professor Li Yi
 
   
 Skills

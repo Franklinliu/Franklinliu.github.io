@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate from School of Computer Science and Engineering, Nanyang Technological University (NTU, Singapore). 
-I got my bachelor's degree from Northeastern University and master's degree from Beihang Univeristy, under the supervision of [Prof Jiang Bo](http://jiangbo.buaa.edu.cn/).
-I pursue the Ph.D degree since August 2019 and am supervised by [Prof. Li Yi](https://personal.ntu.edu.sg/yi_li/). 
-My research interest mainly lies on smart contract analysis, formal verification, software testing, and specification mining.
-
-<h2 id="news">Publications</h2>
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}</ul>
+I am currently a research scientist, supervised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/) from Singapore Management University (SMU, Singapore). Before joining SMU, I was a research fellow at NTU. I received my Ph.D. in 2023 from School of Computer Science and Engineering, Nanyang Technological University (NTU, Singapore), supervised by [Prof. Li Yi](https://personal.ntu.edu.sg/yi_li/) and [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/)(co-supervisor). 
+I received my M.Sc. in 2019 from Beihang Univeristy (BUAA, China), under the supervision of [Prof Jiang Bo](http://jiangbo.buaa.edu.cn/).
+My research interest includes but not limited to smart contract security and reliability, formal verification, and program analysis.
 
 <h2 id="news">News</h2>
 <ul>
-  <li> Update latest news</li>
+  <li> Research Scientist at SMU. May 2024 </li>
+  <li> Our paper “Demystifying Invariant Effectiveness for Securing Smart Contracts” is accepted by FSE 2024. March 2024 <li>
+  <li> Our paper “DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications” is accepted by ISSTA 2024. March 2024 <li>
+  <li> Research Fellow at NTU. July 2023 </li>
+  <li> Receive Ph.D. from NTU. 30-June-2023</li>
 </ul>
