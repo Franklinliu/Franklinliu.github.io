@@ -14,6 +14,10 @@ My research interest includes but not limited to smart contract security and rel
 
 <h2 id="news">News</h2>
 <ul>
+  <li> Our paper “PropertyGPT: LLM-driven Formal Verification of Smart Contracts
+through Retrieval-Augmented Property Generation” is accepted by NDSS 2025. September 2024 </li>
+  <li> Our paper “OpenTracer: A Dynamic Transaction Trace Analyzer for Smart
+  Contract Invariant Generation and Beyond” is accepted by ASE 2024 demo track. August 2024 </li>
   <li> Research Scientist at SMU. May 2024 </li>
   <li> Our paper “Demystifying Invariant Effectiveness for Securing Smart Contracts” is accepted by FSE 2024. March 2024 </li>
   <li> Our paper “DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications” is accepted by ISSTA 2024. March 2024 </li>
