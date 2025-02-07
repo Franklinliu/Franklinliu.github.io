@@ -14,6 +14,8 @@ My research interest includes but not limited to smart contract security and rel
 
 <h2 id="news">News</h2>
 <ul>
+  <li> Our paper “A Comprehensive Study of Governance Issues in Decentralized Finance Applications” is accepted by TOSEM. January 2025 </li>
+  <li> Our paper “Smart Contract Fuzzing Towards Profitable Vulnerabilities” is accepted by FSE. January 2025 </li>
   <li> Our paper “Specification Mining for Smart Contracts with Trace Slicing and Predicate Abstraction” is accepted by SANER 2025. November 2024 </li>
   <li> Our paper “PropertyGPT: LLM-driven Formal Verification of Smart Contracts
 through Retrieval-Augmented Property Generation” is accepted by NDSS 2025. September 2024 </li>
