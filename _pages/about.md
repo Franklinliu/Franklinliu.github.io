@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align:justify;text-justify: inter-word">
-I am now a research scientist, supervised by [Prof. David Lo](http://www.mysmu.edu/faculty/davidlo/) from Singapore Management University (SMU, Singapore). Before joining SMU, I was a research fellow at NTU. I received my Ph.D. in 2023 from School of Computer Science and Engineering, Nanyang Technological University (NTU, Singapore), supervised by [Prof. Li Yi](https://personal.ntu.edu.sg/yi_li/) and [Prof. Liu Yang](https://personal.ntu.edu.sg/yangliu/) (co-supervisor). 
-I received my M.Sc. in 2019 from Beihang Univeristy (BUAA, China), under the supervision of [Prof Jiang Bo](http://jiangbo.buaa.edu.cn/).
+<div style="text-align:justify;text-justify:inter-word">
+I am now a research scientist, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/">Prof. David Lo</a> from Singapore Management University (SMU, Singapore). Before joining SMU, I was a research fellow at NTU. I received my Ph.D. in 2023 from School of Computer Science and Engineering, Nanyang Technological University (NTU, Singapore), supervised by <a href="https://personal.ntu.edu.sg/yi_li/">Prof. Li Yi</a> and <a href="https://personal.ntu.edu.sg/yangliu/">Prof. Liu Yang</a> (co-supervisor). 
+I received my M.Sc. in 2019 from Beihang Univeristy (BUAA, China), under the supervision of <a href="http://jiangbo.buaa.edu.cn/">Prof Jiang Bo</a>.
 My research interest includes but not limited to smart contract security and reliability, formal verification, and program analysis.
 </div>
 
