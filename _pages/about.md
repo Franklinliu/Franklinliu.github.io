@@ -16,6 +16,7 @@ My research interest includes but not limited to smart contract security and rel
 
 <h2 id="news">News</h2>
 <ul >
+  <li style="text-align:justify;text-justify:inter-word"> won NDSS Distinguished Paper Award <i class="fa fa-trophy" style="font-size:48px;color:red"></i> Congrats to all co-authors! Feburary 2025 </li>
   <li style="text-align:justify;text-justify:inter-word"> “A Comprehensive Study of Governance Issues in Decentralized Finance Applications” is accepted by TOSEM. January 2025 </li>
   <li style="text-align:justify;text-justify:inter-word"> “Smart Contract Fuzzing Towards Profitable Vulnerabilities” is accepted by FSE. January 2025 </li>
   <li style="text-align:justify;text-justify:inter-word"> “Specification Mining for Smart Contracts with Trace Slicing and Predicate Abstraction” is accepted by SANER 2025. November 2024 </li>
