@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div style="text-align:justify;text-justify:inter-word">
-I am now a research scientist, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/" style="text-decoration: none;">Prof. David LO</a> from Singapore Management University (SMU, Singapore). Before joining SMU, I was a research fellow at NTU. I received my Ph.D. in 2023 from School of Computer Science and Engineering, Nanyang Technological University (NTU, Singapore), supervised by <a href="https://personal.ntu.edu.sg/yi_li/" style="text-decoration: none;">Prof. Li Yi</a> and <a href="https://personal.ntu.edu.sg/yangliu/" style="text-decoration: none;">Prof. Liu Yang</a> (co-supervisor). 
+I am now a research scientist, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/" style="text-decoration: none;">Prof. David LO</a> from Singapore Management University (SMU, Singapore). Before joining SMU, I was a research fellow at NTU. I received my Ph.D. in 2023 from School of Computer Science and Engineering, Nanyang Technological University (NTU, Singapore), supervised by <a href="https://personal.ntu.edu.sg/yi_li/" style="text-decoration: none;">Assoc. Prof. Li Yi</a> and <a href="https://personal.ntu.edu.sg/yangliu/" style="text-decoration: none;">Prof. Liu Yang</a> (co-supervisor). 
 I received my M.Sc. in 2019 from Beihang Univeristy (BUAA, China), under the supervision of <a href="http://jiangbo.buaa.edu.cn/" style="text-decoration: none;">Prof Jiang Bo</a>.
 My research interest includes but not limited to smart contract security and reliability, formal verification, and program analysis.
 </div>
@@ -18,6 +18,7 @@ My research interest includes but not limited to smart contract security and rel
 <ul>
   <li style="text-align:justify;text-justify:inter-word">2025/12, “AgentGuard: An Active Threat Discovery System for Package Confusion using Multi-Agent Collaboration” is accepted by ML4CS and won Best Paper Award<i class="fa fa-trophy" style="font-size:24px;color:red"></i>. Congrats to Wei Ma and all the co-authors! </li>
   <li style="text-align:justify;text-justify:inter-word">2025/12, “What You Trust Is Insecure: Demystifying How Developers (Mis)Use Trusted Execution Environments in Practice” is accepted by SANER. Congrats to Yuqing and all the co-authors! </li>
+  <li style="text-align:justify;text-justify:inter-word">2025/11, Invited to serve as PC of ISSTA 2026. Welcome to submit your papers! (deadline: 29th Janunary, AoE time)</li>
   <li style="text-align:justify;text-justify:inter-word">2025/8, “Advanced Smart Contract Vulnerability Detection via LLM-Powered Multi-Agent Systems” is accepted by TSE. Congrats to Zhiyuan and all the co-authors! </li>
   <li style="text-align:justify;text-justify:inter-word">2025/7, “Resisting Poisoning Attacks in Federated Learning via Dual-Domain Distance and Trust Assessment” is accepted by TIFS. </li>
   <li style="text-align:justify;text-justify:inter-word">2025/7, “ACFix: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts” is accepted by TSE. </li>

@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Northeastern University, China, Sep, 2012 - Jun, 2016
-    * Exchange Student  in Shandong Universtiy, China, Sep, 2014 - Jun, 2015
-* M.Sc. in Beihang University, China, Sep, 2016 - Jan, 2019
-* Ph.D. Nanyang Technological University, Singapore,  Aug, 2019 - June, 2023
+* Ph.D. Nanyang Technological University, Singapore, 2019/8 - 2023/6
+* M.Sc. in Beihang University, China, 2016/9 - 2019/1
+* B.Eng. in Northeastern University, China, 2012/9 - 2016/6
+    * Exchange Student  in Shandong Universtiy, China, 2014/9 - 2015/6
 
 Work experience
 ======
@@ -43,7 +43,7 @@ Skills
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
    -->
-   
+
 Talks
 ======
   <ul>{% for post in site.talks %}
