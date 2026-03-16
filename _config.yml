@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Liu Ye"
   avatar           : "profile.png"
-  bio              : "Research Scientist at SMU; yeliu[at]smu.edu.sg; Research Fellow and Ph.D. at NTU  "
+  bio              : "Professor at BIT, ye.liu@bit.edu.cn; Research Scientist at SMU; Research Fellow and Ph.D. at NTU  "
   location         : "Singapore"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.sg/citations?user=UlTURB0AAAAJ&hl=en&authuser=2"
-  email            : yeliu[at]smu.edu.sg; li0003ye[at]ntu.edu.sg    
+  email            : ye.liu@bit.edu.cn; li0003ye[at]ntu.edu.sg;    
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
