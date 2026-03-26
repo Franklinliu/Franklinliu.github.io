@@ -17,8 +17,10 @@ My research interest includes but not limited to smart contract security and rel
 
 <h2 id="news">News</h2>
 <ul>
+  <li style="text-align:justify;text-justify:inter-word">2026/3, One paper "Automated Repair of TEE Partitioning Issues via DSL-Guided and LLM-Assisted Patching" has been accepted by The ACM International Conference on the Foundations of Software Engineering (FSE 2026). Congrats to Chengyan and all the co-authors!</li>
   <li style="text-align:justify;text-justify:inter-word">2026/2, One paper "Towards Secure Program Partitioning for Smart Contracts with LLM’s In-Context Learning" has been accepted by IEEE Transactions on Software Engineering.</li>
   <li style="text-align:justify;text-justify:inter-word">2026/2, Won the IEEE TCSE Distinguished Paper Award<i class="fa fa-trophy" style="font-size:24px;color:red"></i> at SANER 2026 for the paper "What You Trust Is Insecure: Demystifying How Developers (Mis)Use Trusted Execution Environments in Practice". Congrats to Yuqing and all the co-authors! </li>
+  <li style="text-align:justify;text-justify:inter-word">2026/2, One paper "PatchGPT: Multi-Agent Patch Backporting without Model Fine-Tuning"has been accepted by IEEE/ACM Third International Conference on AI Foundation Models and Software Engineering (FORGE'26) </li>
   <li style="text-align:justify;text-justify:inter-word">2025/12, “AgentGuard: An Active Threat Discovery System for Package Confusion using Multi-Agent Collaboration” is accepted by ML4CS and won Best Paper Award<i class="fa fa-trophy" style="font-size:24px;color:red"></i>. Congrats to Wei Ma and all the co-authors! </li>
   <li style="text-align:justify;text-justify:inter-word">2025/12, “What You Trust Is Insecure: Demystifying How Developers (Mis)Use Trusted Execution Environments in Practice” is accepted by SANER. Congrats to Yuqing and all the co-authors! </li>
   <li style="text-align:justify;text-justify:inter-word">2025/11, Invited to serve as PC of ISSTA 2026. Welcome to submit your papers! (deadline: 29th January, AoE time)</li>
