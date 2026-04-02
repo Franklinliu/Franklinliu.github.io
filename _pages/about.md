@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 <div style="text-align:justify;text-justify:inter-word">
-I am a tenure-track full professor from the School of Cyberspace Science and Technology, Beijing Institute of Technology (BIT), China.
-Prior to that, I was a research scientist, supervised by <a href="http://www.mysmu.edu/faculty/davidlo/" style="text-decoration: none;">Prof. David LO</a> from Singapore Management University (SMU, Singapore). Before joining SMU, I was a research fellow at NTU. I received my Ph.D. in 2023 from School of Computer Science and Engineering, Nanyang Technological University (NTU, Singapore), supervised by <a href="https://personal.ntu.edu.sg/yi_li/" style="text-decoration: none;">Assoc. Prof. Li Yi</a> and <a href="https://personal.ntu.edu.sg/yangliu/" style="text-decoration: none;">Prof. Liu Yang</a> (co-supervisor). 
-I received my M.Sc. in 2019 from Beihang Univeristy (BUAA, China), under the supervision of <a href="http://jiangbo.buaa.edu.cn/" style="text-decoration: none;">Prof Jiang Bo</a>.
-My research interest includes but not limited to smart contract security and reliability, formal verification, and program analysis.
+I am a tenure-track Professor from the School of Cyberspace Science and Technology, Beijing Institute of Technology (BIT), China. Prior to that, I was a research scientist, advised by <a href="http://www.mysmu.edu/faculty/davidlo/" style="text-decoration: none;">Prof. David LO</a> from Singapore Management University (SMU, Singapore). Before joining SMU, I was a research fellow at NTU. I earned my Ph.D. in 2023 from School of Computer Science and Engineering, Nanyang Technological University, Singapore, mentored by <a href="https://personal.ntu.edu.sg/yi_li/" style="text-decoration: none;">Assoc. Prof. Li Yi</a> and <a href="https://personal.ntu.edu.sg/yangliu/" style="text-decoration: none;">Prof. Liu Yang</a>. I received my M.Sc. from Beihang Univeristy in 2019, under the supervision of <a href="http://jiangbo.buaa.edu.cn/" style="text-decoration: none;">Prof. Jiang Bo</a>, and obtained my B.Sc. from Northeastern University (China) in 2016.
+
+My research interest includes but not limited to program/runtime analysis techniques for ensuring the security and reliability of decentralized applications. My research has been published in top-tier conferences and journals, including FSE, TSE, NDSS, ISSTA, TDSC, TIFS, TOSEM, etc. I have also received several awards for my research, including the IEEE TCSE Distinguished Paper Award (SANER'26), the NDSS Distinguished Paper Award (NDSS'25), and the ACM SIGSOFT Distinguished Paper Award (ISSTA'22). I am also actively involved in the research community, serving as a program committee member or reviewer for several top-tier conferences and journals, including ISSTA, TOSEM, TSE, etc.
+
+I am always happy to hear from motivated students and collaborators. If your interests connect with blockchain, software security, or decentralized applications, please send me a short email with your background and research interests.
 </div>
 
 <h2 id="news">News</h2>
