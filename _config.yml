@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Liu Ye"
   avatar           : "profile.png"
-  bio              : "Professor at BIT, ye.liu@bit.edu.cn;"
+  bio              : "Professor at BIT, ye.liu@bit.edu.cn"
   location         : "Singapore"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  dblp             : "https://dblp.org/pid/96/2615-12.html"
   googlescholar    : "https://scholar.google.com.sg/citations?user=UlTURB0AAAAJ&hl=en&authuser=2"
-  email            : ye.liu@bit.edu.cn; li0003ye[at]ntu.edu.sg;    
+  email            : ye.liu@bit.edu.cn    
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
