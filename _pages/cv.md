@@ -19,7 +19,11 @@ Education
 Work experience
 ======
 
-* May, 2024 - current : Research Scientist
+* 2026 - current : Professor
+  * Beijing Institute of Technology
+  * The School of Cyberspace Science and Technology
+
+* 2024 - 2026 : Research Scientist
   * Singapore Management University
   * Mentor: Professor David Lo
 
@@ -32,10 +36,10 @@ Work experience
   * Mentor: Professor Liu Yang
 
   
-Skills
+<!-- Skills
 ======
 * Software Testing
-* Smart Contract Security Analysis
+* Smart Contract Security Analysis -->
 
 <!-- Publications
 ======
